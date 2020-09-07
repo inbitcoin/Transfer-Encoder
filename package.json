@@ -4,7 +4,7 @@
   "description": "The encoding/decoding functions for the colored-coins scheme transfer set of OP_CODES",
   "main": "transferEncoder.js",
   "dependencies": {
-    "cc-payment-encoder": "^1.0.0",
+    "cc-payment-encoder": "git://github.com/inbitcoin/Payment-Encoder.git#v1.0.2",
     "cc-burn-payment-encoder": "^1.0.0"
   },
   "directories": {
